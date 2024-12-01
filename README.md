@@ -1,6 +1,6 @@
 # Time-Series
 
-In this homework we were asked to predict future samples of the input time series implementing forecasting models to learn how to exploit past observations in the input sequences to correctly predict the future. We were provided of only the train set, to be used to learn the models. The submissions were then evaluated on a hidden test set.
+For this homework assignment, the objective was to develop forecasting models capable of predicting future samples in a given time series. The task focused on leveraging past observations in the input sequences to accurately forecast future values. We were provided with a training dataset to build and train the models. Submissions were then evaluated on a hidden test set, ensuring an unbiased assessment of the models' performance.
 
 ## Files in the Repository
 
